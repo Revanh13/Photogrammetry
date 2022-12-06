@@ -6,3 +6,5 @@
 2. 3DFZepfyr
 3. Samsung Lidar
 4. Agisoft
+
+![Alt text](./AllModels.png?raw=true "Фото всех моделей")
